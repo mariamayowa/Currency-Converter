@@ -63,7 +63,6 @@ form .drop-list{
     justify-content: center;
     border: 1px solid #ffff;
     border-radius: 6px;
-
 }
 
 .select-box select{
@@ -76,4 +75,18 @@ form .drop-list{
 
 .select-box img{
     max-width: 25px;
+}
+
+form .exchange-rate{
+    font-size: 16px;
+    margin: 20px 0 30px;
+}
+
+form button{
+    height: 55px;
+    font-size: 17px;
+    border: none;
+    border-radius: 5px;
+    background-color: #d0d6c1;
+    cursor: pointer;
 }
