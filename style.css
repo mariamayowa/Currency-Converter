@@ -13,8 +13,18 @@ body{
 
 .wrapper{
     background: #92a75b;
-    width: 300px;
+    width: 400px;
     padding: 40px;
     border-radius: 6px;
+}
+
+.wrapper header{
+    font-size: 27px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.wrapper form{
+    margin-top: 40px;
 }
 
